@@ -1,0 +1,9 @@
+{
+	"name": "azureDFGit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f90ce70-1f53-40bb-a335-38d64ceccf74",
+		"tenantId": "7dfab5ef-3668-47ca-a2c1-8b02a6c853aa"
+	}
+}
