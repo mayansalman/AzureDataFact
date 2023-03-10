@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "azureDFGit"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},

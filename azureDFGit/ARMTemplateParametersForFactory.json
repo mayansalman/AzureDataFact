@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "azureDFGit"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
